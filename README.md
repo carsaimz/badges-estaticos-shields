@@ -2,6 +2,8 @@
 
 Os **badges estáticos** são indicadores visuais que mostram informação no teu README, como estado de build, cobertura de código, versão ou qualquer texto personalizado. Eles podem ser configurados em **cor, estilo, logo e texto**.
 
+Se tiveres dificuldades de entender essa documentação, eu fiz uma versão web da ferramenta que te ajuda a cria seu badges sem ter que lidar com códigos. Você pode experimentar clicando [aqui](https://nice-readme.vercel.app/badges), ou ver o repositório [aqui](https://github.com/heliocarlitos/nice-readme), a documentação oficial [aqui](https://shields.io/).
+
 ## Como Criar Badges Personalizados
 
 ### Estrutura Básica da URL
