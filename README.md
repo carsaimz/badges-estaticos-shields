@@ -121,22 +121,6 @@ https://img.shields.io/badge/<label>-<mensagem>-<cor>?style=<estilo>&logo=<logo>
 * Os badges podem ser usados em **Markdown** ou **HTML**.
 * Para links, `<object>` HTML é necessário, `<img>` não suporta `link`.
 
-## 🤝 Colaborador
-
-Agradecemos às seguintes pessoas que contribuíram para este projecto:
-
-<table>
-<tr>
-<td align="center">
-     <a href="#" title="Hélio Carlitos">
-     <img src="https://avatars3.githubusercontent.com/u/112761333" width="100px;" alt="Foto do Hélio Carlitos no GitHub"/><br>
-     <sub>
-          <b>Hélio Carlitos</b>
-     </sub>
-     </a>
-</td>
-</tr>
-</table>
 
 **Fonte**: [shields.io](https://shields.io/)
 
